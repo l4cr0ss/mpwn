@@ -1,0 +1,8 @@
+__pycache__/
+
+# ignore vim swapfiles
+# note - this also ignores .svg image files and .swf flash files
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
